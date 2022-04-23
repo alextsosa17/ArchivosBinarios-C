@@ -1,2 +1,2 @@
 # ArchivosBinarios-C
-Manejo de Archivos Binarios, materia Laboratorio de Computación 2
+Trabajo Practico final realizado en la materia Laboratorio de Computación II en la Universidad Nacional de San Martin. En el archivo main.c encontrará el codigo fuente; en main.exe encontrará el ejecutable del archivo, en TP Final encontrará el enunciado del ejercicio, ademas incorpore dos archivos mas, uno de ellos es "empleados.dat" que el programa usa para cargar 10 empleados con sus respectivos datos, y un "modificado.dat" donde se encuentran los empleados dados de baja.
